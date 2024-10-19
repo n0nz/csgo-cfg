@@ -1,2 +1,3 @@
 # csgo-cfg
-My Counter-Strike: Global Offensive Configuration
+
+CS2 cfg
